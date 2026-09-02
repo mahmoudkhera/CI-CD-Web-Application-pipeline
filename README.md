@@ -1,4 +1,4 @@
-# Deploy Wثلا Application on AWS 3-Tier Architecture
+# Deploy web Application on AWS 3-Tier Architecture
 
 
 
